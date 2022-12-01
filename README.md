@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @M1mdex
+- 👀 I’m interested in WebSites
+- 🌱 I’m currently learning PHP, JavaScript
