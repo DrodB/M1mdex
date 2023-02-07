@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @DrodB.
-- 👀 I’m interested in Websites
-- 🌱 I’m currently learning PHP, JavaScript
+- 👀 I’m interested in Websites.
+- 🌱 I’m currently learning PHP, JavaScript.
+- 💥 My hosting of game servers - fiducia.space.
