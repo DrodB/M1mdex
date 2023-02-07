@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DrodB.
-- 👀 I’m interested in WebSites
+- 👀 I’m interested in Websites
 - 🌱 I’m currently learning PHP, JavaScript
